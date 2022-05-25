@@ -1,4 +1,4 @@
-# Random Image using c++/sfml
+# Space game using c++/sfml
 
 ## idea of works
 We have main components are:
